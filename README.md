@@ -1,2 +1,0 @@
-# PaintTest
-Swift Paint App
